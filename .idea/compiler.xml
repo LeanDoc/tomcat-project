@@ -13,7 +13,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="TomcatMavenApp" options="-endorseddirs C:\Users\Ганга\tomcat-project-main\target/endorsed" />
+      <module name="TomcatMavenApp" options="-endorseddirs C:\Users\Ганга\tomcat-project\target/endorsed" />
       <module name="tomcat-project" options="-endorseddirs C:\Users\Ганга\tomcat-project\target/endorsed" />
     </option>
   </component>
